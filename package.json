@@ -1,0 +1,33 @@
+{
+  "name": "GameChanger_Store",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Online best store",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/plugin-i18n": "4.14.0",
+    "@strapi/plugin-users-permissions": "4.14.0",
+    "@strapi/provider-email-sendgrid": "^4.14.4",
+    "@strapi/strapi": "4.14.0",
+    "pg": "^8.11.3",
+    "sendmail": "^1.6.1",
+    "strapi-plugin-passwordless": "^4.0.14"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "81679cdb-0c1b-46eb-965b-391b9696bc34"
+  },
+  "engines": {
+    "node": ">=16.0.0 <=20.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

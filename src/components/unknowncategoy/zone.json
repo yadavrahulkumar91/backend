@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_unknowncategoy_zones",
+  "info": {
+    "displayName": "Zone"
+  },
+  "options": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    }
+  }
+}

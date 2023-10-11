@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_unknowncategoy_dontknows",
+  "info": {
+    "displayName": "dontknow",
+    "icon": "arrowLeft",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Description": {
+      "type": "richtext"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "custom": {
+      "displayName": "Custom component",
+      "type": "component",
+      "repeatable": true,
+      "component": "unknowncategoy.custom-component"
+    }
+  }
+}

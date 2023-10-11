@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tries",
+  "info": {
+    "singularName": "try",
+    "pluralName": "tries",
+    "displayName": "try"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "try": {
+      "type": "component",
+      "repeatable": true,
+      "component": "unknowncategoy.dontknow"
+    }
+  }
+}
